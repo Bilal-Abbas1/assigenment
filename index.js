@@ -7,3 +7,4 @@ let Age = 24;
 let MaritalStatus = true;
 let undefied = undefined;
 let Null = null;
+console.log(Name, Age, MaritalStatus, undefied, Null);

@@ -8,4 +8,5 @@
         let Null:null=null
 
 
+console.log(Name,Age,MaritalStatus,undefied,Null);
 
